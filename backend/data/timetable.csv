@@ -1,0 +1,504 @@
+id,username,day,time,course,venue,academicyear,division,is_rescheduled
+1,sunitakulkarni,Monday,09:30 - 10:30,Computer Vision,JN-105,FY,PGDAIML-SECA,f
+2,chetankhadse,Monday,10:45 - 11:45,Data Analytics,JN-105,FY,PGDAIML-SECA,f
+3,jyotilele,Monday,13:30 - 14:30,Natural Language Processing,JN-105,FY,PGDAIML-SECA,f
+4,sumitramotade,Monday,14:30 - 15:30,Machine Learning Algorithms,JN-105,FY,PGDAIML-SECA,f
+5,jyotilele,Monday,15:30 - 17:30,Natural Language Processing(LaB),KS-405,FY,PGDAIML-SECA,f
+6,sunitakulkarni,Tuesday,09:30 - 10:30,Computer Vision,KS-405,FY,PGDAIML-SECA,f
+7,sumitramotade,Tuesday,11:45 - 12:45,Machine Learning Algorithms,JN-105,FY,PGDAIML-SECA,f
+8,bhaktiparanjape,Tuesday,13:30 - 14:30,Deep Learning Networks,JN-105,FY,PGDAIML-SECA,f
+9,bhaktiparanjape,Tuesday,15:30 - 17:30,Deep Learning Networks(LAB),KS-405,FY,PGDAIML-SECA,f
+10,sumitramotade,Wednesday,09:30 - 10:30,Machine Learning Algorithms,JN-105,FY,PGDAIML-SECA,f
+11,jyotilele,Wednesday,10:45 - 11:45,Artificial Intelligence,JN-105,FY,PGDAIML-SECA,f
+12,jyotilele,Wednesday,11:45 - 12:45,Artificial Intelligence,JN-105,FY,PGDAIML-SECA,f
+13,sumitramotade,Wednesday,13:30 - 15:30,Machine Learning Algorithms(LAB),KS-405,FY,PGDAIML-SECA,f
+14,sarikapatil,Wednesday,15:30 - 16:30,Machine Learning Mathematics,JN-105,FY,PGDAIML-SECA,f
+15,chetankhadse,Thursday,08:30 - 09:30,Data Analytics,JN-105,FY,PGDAIML-SECA,f
+16,jyotilele,Thursday,09:30 - 10:30,Artificial Intelligence,JN-105,FY,PGDAIML-SECA,f
+17,sunitakulkarni,Thursday,10:45 - 11:45,Computer Vision,JN-105,FY,PGDAIML-SECA,f
+18,sunitakulkarni,Thursday,11:45 - 12:45,Computer Vision,JN-105,FY,PGDAIML-SECA,f
+19,chetankhadse,Thursday,14:30 - 15:30,Data Analytics,JN-105,FY,PGDAIML-SECA,f
+20,sarikapatil,Thursday,15:30 - 16:30,Machine Learning Mathematics,JN-105,FY,PGDAIML-SECA,f
+21,chetankhadse,Friday,08:30 - 10:30,Data Analytics(LAB),KS-405,FY,PGDAIML-SECA,f
+22,jyotilele,Friday,10:45 - 11:45,Natural Language Processing,KS-405,FY,PGDAIML-SECA,f
+23,jyotilele,Friday,11:45 - 12:45,Natural Language Processing,KS-405,FY,PGDAIML-SECA,f
+24,bhaktiparanjape,Friday,13:30 - 14:30,Deep Learning Networks,KS-405,FY,PGDAIML-SECA,f
+25,bhaktiparanjape,Friday,14:30 - 15:30,Deep Learning Networks,KS-405,FY,PGDAIML-SECA,f
+26,sarikapatil,Friday,15:30 - 16:30,Machine Learning Mathematics,KS-405,FY,PGDAIML-SECA,f
+27,bharatchaudhari,Monday,09:30 - 10:30,Research Methodology for eMobility,JN-105,FY,MTECHEMOBILI-SECA,f
+28,saketyeolekar,Monday,10:45 - 12:45,Electric and Hybrid Vehicles(LAB),JN-005,FY,MTECHEMOBILI-SECA,f
+29,gaurangmulay,Monday,13:30 - 14:30,Power Electronics for EV,JN-008,FY,MTECHEMOBILI-SECA,f
+30,kishanprasadgunale,Monday,15:30 - 16:30,Au-motive Embedded Systems,JN-005,FY,MTECHEMOBILI-SECA,f
+31,rasikabeohar,Monday,15:30 - 16:30,"Scientific Studies of Mind, Matter, Spirit & Consciousness",JN-005,FY,MTECHEMOBILI-SECA,f
+32,rasikabeohar,Monday,16:30 - 17:30,"Scientific Studies of Mind, Matter, Spirit & Consciousness",JN-005,FY,MTECHEMOBILI-SECA,f
+33,kunalpingle,Tuesday,08:30 - 09:30,Yoga,JN-005,FY,MTECHEMOBILI-SECA,f
+34,kunalpingle,Tuesday,09:30 - 10:30,Yoga,JN-005,FY,MTECHEMOBILI-SECA,f
+35,kishanprasadgunale,Tuesday,10:45 - 12:45,Au-motive Embedded Systems(LAB),JN-008,FY,MTECHEMOBILI-SECA,f
+36,bharatchaudhari,Tuesday,13:30 - 14:30,Research Methodology for eMobility,JN-005,FY,MTECHEMOBILI-SECA,f
+37,gaurangmulay,Tuesday,14:30 - 15:30,Power Electronics for EV,JN-005,FY,MTECHEMOBILI-SECA,f
+38,kishanprasadgunale,Tuesday,15:30 - 16:30,Au-motive Embedded Systems,JN-005,FY,MTECHEMOBILI-SECA,f
+39,kishanprasadgunale,Wednesday,09:30 - 10:30,Au-motive Embedded Systems,JN-008,FY,MTECHEMOBILI-SECA,f
+40,saketyeolekar,Wednesday,10:45 - 11:45,Electric and Hybrid Vehicles,JN-105,FY,MTECHEMOBILI-SECA,f
+41,gaurangmulay,Wednesday,11:45 - 12:45,Power Electronics for EV,JN-005,FY,MTECHEMOBILI-SECA,f
+42,bharatchaudhari,Wednesday,13:30 - 14:30,Research Methodology for eMobility,JN-008,FY,MTECHEMOBILI-SECA,f
+43,saketyeolekar,Thursday,09:30 - 10:30,Electric and Hybrid Vehicles,JN-005,FY,MTECHEMOBILI-SECA,f
+44,gaurangmulay,Thursday,10:45 - 12:45,Power Electronics for EV(LAB),JN-008,FY,MTECHEMOBILI-SECA,f
+45,saketyeolekar,Friday,10:45 - 11:45,Electric and Hybrid Vehicles,JN-105,SY,MTECHEMOBILI-SECA,f
+46,bharatchaudhari,Friday,11:45 - 12:45,Research Methodology for eMobility(TUT),JN-105,SY,MTECHEMOBILI-SECA,f
+47,anjalipurohit,Friday,08:30 - 09:30,Intelligent Systems and EV Security,JN-105,SY,MTECHEMOBILI-SECA,f
+48,anjalipurohit,Friday,09:30 - 10:30,Intelligent Systems and EV Security,JN-105,SY,MTECHEMOBILI-SECA,f
+49,amitnehete,Friday,10:45 - 11:45,Smart Grid Systems,JN-005,SY,MTECHEMOBILI-SECA,f
+50,amitnehete,Friday,11:45 - 12:45,Smart Grid Systems,JN-105,SY,MTECHEMOBILI-SECA,f
+51,shwetakukade,Friday,13:30 - 14:30,Vehicular Network and Communication,JN-005,SY,MTECHEMOBILI-SECA,f
+52,shwetakukade,Friday,14:30 - 15:30,Vehicular Network and Communication,JN-105,SY,MTECHEMOBILI-SECA,f
+53,amitnehete,Friday,15:30 - 16:30,Project Stage-I,JN-105,SY,MTECHEMOBILI-SECA,f
+54,amitnehete,Saturday,08:30 - 09:30,Smart Grid Systems,JN-105,SY,MTECHEMOBILI-SECA,f
+55,amitnehete,Saturday,09:30 - 10:30,Smart Grid Systems,JN-105,SY,MTECHEMOBILI-SECA,f
+56,anjalipurohit,Saturday,10:45 - 11:45,Intelligent Systems and EV Security,JN-105,SY,MTECHEMOBILI-SECA,f
+57,anjalipurohit,Saturday,11:45 - 12:45,Intelligent Systems and EV Security,JN-105,SY,MTECHEMOBILI-SECA,f
+58,shwetakukade,Saturday,13:30 - 14:30,Vehicular Network and Communication,JN-105,SY,MTECHEMOBILI-SECA,f
+59,shwetakukade,Saturday,14:30 - 15:30,Vehicular Network and Communication,JN-105,SY,MTECHEMOBILI-SECA,f
+60,amitnehete,Saturday,15:30 - 17:30,Project Stage-I,JN-105,SY,MTECHEMOBILI-SECA,f
+61,bharatchaudhari,Monday,09:30 - 10:30,Research Methodology,VK-307,FY,MTECHEVLSI-SECA,f
+62,savitrijadhav,Monday,10:45 - 11:45,Advanced Embedded Systems,VK-307,FY,MTECHEVLSI-SECA,f
+63,vinayagohokar,Monday,11:45 - 12:45,Industrial IoT,JN-005,FY,MTECHEVLSI-SECA,f
+64,vinayagohokar,Monday,13:30 - 14:30,Industrial IoT,JN-005,FY,MTECHEVLSI-SECA,f
+65,sarikapatil,Tuesday,14:30 - 16:30,AI TechniqueApplications(LAB),JN-008,FY,MTECHEVLSI-SECA,f
+66,kunalpingle,Tuesday,08:30 - 10:30,Yoga,JN-005,FY,MTECHEVLSI-SECA,f
+67,kunalpingle,Tuesday,09:30 - 10:30,Yoga,JN-005,FY,MTECHEVLSI-SECA,f
+68,savitrijadhav,Tuesday,10:45 - 11:45,Advanced Embedded Systems,VK-307,FY,MTECHEVLSI-SECA,f
+69,sarikapatil,Tuesday,11:45 - 12:45,AI TechniqueApplications,VK-307,FY,MTECHEVLSI-SECA,f
+70,bharatchaudhari,Tuesday,13:30 - 14:30,Research Methodology,VK-307,FY,MTECHEVLSI-SECA,f
+71,sarikapatil,Wednesday,11:45 - 12:45,AI TechniqueApplications,VK-307,FY,MTECHEVLSI-SECA,f
+72,bharatchaudhari,Wednesday,13:30 - 14:30,Research Methodology,VK-307,FY,MTECHEVLSI-SECA,f
+73,vinayagohokar,Wednesday,14:30 - 16:30,Industrial IoT,VK-307,FY,MTECHEVLSI-SECA,f
+74,savitrijadhav,Thursday,10:45 - 11:45,Advanced Embedded Systems,VK-307,FY,MTECHEVLSI-SECA,f
+75,sarikapatil,Thursday,11:45 - 12:45,AI TechniqueApplications,VK-307,FY,MTECHEVLSI-SECA,f
+76,vinayagohokar,Thursday,13:30 - 15:30,Industrial IoT(LAB),VK-307,FY,MTECHEVLSI-SECA,f
+77,rasikabeohar,Friday,09:30 - 10:30,"Scientific Studies of Mind, Matter, Spirit & Consciousness",VK-307,FY,MTECHEVLSI-SECA,f
+78,rasikabeohar,Friday,10:45 - 11:45,"Scientific Studies of Mind, Matter, Spirit & Consciousness",VK-307,FY,MTECHEVLSI-SECA,f
+79,bharatchaudhari,Friday,11:45 - 12:45,Research Methodology,VK-307,FY,MTECHEVLSI-SECA,f
+80,savitrijadhav,Friday,13:30 - 15:30,Advanced Embedded Systems(LAB),VK-307,FY,MTECHEVLSI-SECA,f
+81,ujjawalarawandale,Monday,08:30 - 10:30,Digital Electronics (DE) - G1,VK-302,SY,ECEAIML-SECA,f
+82,shrutidanve,Monday,08:30 - 10:30,Project-Based Learning-I (G3),VK-301,SY,ECEAIML-SECA,f
+83,chetankhadse,Monday,10:45 - 11:45,Signals and Systems (SS),DR-405,SY,ECEAIML-SECA,f
+84,arpitadeodikar,Monday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-405,SY,ECEAIML-SECA,f
+85,amolsajjan,Monday,13:30 - 14:30,ESD,DR-405,SY,ECEAIML-SECA,f
+86,amolsajjan,Monday,14:30 - 15:30,ESD,DR-405,SY,ECEAIML-SECA,f
+87,arpitadeodikar,Tuesday,09:30 - 10:30,Calculus and Statistical Methods (CSM) - Theory,KS- 407,SY,ECEAIML-SECA,f
+88,ujjawalarawandale,Tuesday,10:45 - 11:45,Digital Electronics (DE),DR-405,SY,ECEAIML-SECA,f
+89,chetankhadse,Tuesday,11:45 - 12:45,Signals and Systems (SS) - Tu-rial,DR-405,SY,ECEAIML-SECA,f
+90,ujjawalarawandale,Wednesday,08:30 - 10:30,Digital Electronics (DE) - G2,VK-302,SY,ECEAIML-SECA,f
+91,deepanath,Wednesday,08:30 - 10:30,Project-Based Learning-I (G1),VK-301,SY,ECEAIML-SECA,f
+92,arpitadeodikar,Wednesday,10:45 - 11:45,Calculus and Statistical Methods (CSM),DR-405,SY,ECEAIML-SECA,f
+93,ujjawalarawandale,Wednesday,11:45 - 12:45,Digital Electronics (DE),DR-405,SY,ECEAIML-SECA,f
+94,chetankhadse,Thursday,09:30 - 10:30,Signals and Systems (SS),DR-405,SY,ECEAIML-SECA,f
+95,ujjawalarawandale,Thursday,10:45 - 12:45,Digital Electronics (DE) - G3,VK-302,SY,ECEAIML-SECA,f
+96,chetankhadse,Thursday,10:45 - 12:45,Project-Based Learning-I (G2),VK-301,SY,ECEAIML-SECA,f
+97,shatakshibhamre,Thursday,13:30 - 14:30,Spiritual and Cultural Heritage (SCH),DR-405,SY,ECEAIML-SECA,f
+98,shatakshibhamre,Thursday,14:30 - 15:30,Spiritual and Cultural Heritage (SCH),DR-405,SY,ECEAIML-SECA,f
+99,ujjawalarawandale,Friday,08:30 - 09:30,Digital Electronics (DE),DR-405,SY,ECEAIML-SECA,f
+100,arpitadeodikar,Friday,09:30 - 10:30,Calculus and Statistical Methods (CSM),DR-405,SY,ECEAIML-SECA,f
+101,chetankhadse,Friday,11:45 - 12:45,Signals and Systems (SS),DR-405,SY,ECEAIML-SECA,f
+102,poojagundewar,Monday,08:30 - 09:30,Signals and Systems (SS),DR-406,SY,ECEAIML-SECB,f
+103,nathraojadhav,Monday,09:30 - 10:30,Digital Electronics (DE),DR-406,SY,ECEAIML-SECB,f
+104,sanjaykumarkinge,Monday,10:45 - 12:45,Project Based Learning (PBL)-G3,VK-301,SY,ECEAIML-SECB,f
+105,nathraojadhav,Monday,10:45 - 12:45,Digital Electronics (DE)-G1,VK-302,SY,ECEAIML-SECB,f
+106,rajkumarkomati,Tuesday,08:30 - 10:30,Digital Electronics (DE)-G2,JN-305,SY,ECEAIML-SECB,f
+107,poojagundewar,Tuesday,10:45 - 11:45,Signals and Systems (SS),DR-406,SY,ECEAIML-SECB,f
+108,arpitadeodikar,Tuesday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECB,f
+109,arpitadeodikar,Wednesday,08:30 - 09:30,Calculus and Statistical Methods (CSM),DR-405,SY,ECEAIML-SECB,f
+110,nathraojadhav,Wednesday,09:30 - 10:30,Digital Electronics (DE),DR-405,SY,ECEAIML-SECB,f
+111,mrunalannadate,Wednesday,10:45 - 12:45,Project Based Learning (PBL)-G2,VK-301,SY,ECEAIML-SECB,f
+112,nathraojadhav,Wednesday,10:45 - 12:45,Digital Electronics (DE)-G3,JN-305,SY,ECEAIML-SECB,f
+113,nathraojadhav,Thursday,09:30 - 10:30,Digital Electronics (DE),DR-406,SY,ECEAIML-SECB,f
+114,poojagundewar,Thursday,10:45 - 11:45,Signals and Systems (SS),DR-406,SY,ECEAIML-SECB,f
+115,arpitadeodikar,Thursday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECB,f
+116,anjaliaskhedkar,Thursday,13:30 - 15:30,Project Based Learning (PBL)-G1,KS- 404 ,SY,ECEAIML-SECB,f
+117,amolsajjan,Thursday,14:30 - 15:30,ESD,DR-406,SY,ECEAIML-SECB,f
+118,poojagundewar,Friday,09:30 - 10:30,Signals and Systems - Tu-rial,DR-406,SY,ECEAIML-SECB,f
+119,arpitadeodikar,Friday,10:45 - 11:45,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECB,f
+120,amolsajjan,Friday,11:45 - 12:45,ESD,DR-406,SY,ECEAIML-SECB,f
+121,shatakshibhamre,Friday,13:30 - 14:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECB,f
+122,shatakshibhamre,Friday,14:30 - 15:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECB,f
+123,chetankhadse,Monday,08:30 - 09:30,Signals and Systems (SS),DR-405,SY,ECEAIML-SECC,f
+124,mrunalannadate,Monday,09:30 - 10:30,Digital Electronics (DE),DR-405,SY,ECEAIML-SECC,f
+125,mrunalannadate,Monday,10:45 - 12:45,Digital Electronics (DE)-G3,JN-305,SY,ECEAIML-SECC,f
+126,anilhiwale,Monday,10:45 - 12:45,Project Based Learning (PBL)-G2,VK-411D,SY,ECEAIML-SECC,f
+127,pratibhakshirsagar,Monday,13:30 - 14:30,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECC,f
+128,chetankhadse,Tuesday,09:30 - 10:30,Signals and Systems (SS),DR-405,SY,ECEAIML-SECC,f
+129,mrunalannadate,Tuesday,10:45 - 12:45,Digital Electronics (DE)-G1,JN-305,SY,ECEAIML-SECC,f
+130,sunilsomani,Tuesday,10:45 - 12:45,Project Based Learning (PBL)-G3,VK-411D,SY,ECEAIML-SECC,f
+131,chetankhadse,Tuesday,13:30 - 14:30,Signals and Systems (SS) - Tu-rial,DR-406,SY,ECEAIML-SECC,f
+132,pratibhakshirsagar,Wednesday,08:30 - 09:30,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECC,f
+133,mrunalannadate,Wednesday,09:30 - 10:30,Digital Electronics (DE),DR-406,SY,ECEAIML-SECC,f
+134,chetankhadse,Wednesday,10:45 - 11:45,Signals and Systems (SS),DR-406,SY,ECEAIML-SECC,f
+135,pratibhakshirsagar,Wednesday,11:45 - 12:45,CSM (Theory),DR-406,SY,ECEAIML-SECC,f
+136,amolsajjan,Wednesday,13:30 - 14:30,ESD,DR-406,SY,ECEAIML-SECC,f
+137,amolsajjan,Wednesday,14:30 - 15:30,ESD,DR-406,SY,ECEAIML-SECC,f
+138,mrunalannadate,Thursday,08:30 - 10:30,Digital Electronics (DE) - G2,JN-305,SY,ECEAIML-SECC,f
+139,anilhiwale,Thursday,08:30 - 10:30,Project Based Learning (PBL)-G1,VK-301,SY,ECEAIML-SECC,f
+140,mrunalannadate,Thursday,10:45 - 11:45,Digital Electronics (DE),DR-405,SY,ECEAIML-SECC,f
+141,pratibhakshirsagar,Thursday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-405,SY,ECEAIML-SECC,f
+142,rajeevjoshi,Thursday,13:30 - 14:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECC,f
+143,rajeevjoshi,Thursday,14:30 - 15:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECC,f
+144,amolsajjan,Monday,08:30 - 09:30,ESD,DR-406,SY,ECEAIML-SECD,f
+145,amolsajjan,Monday,09:30 - 10:30,ESD,DR-406,SY,ECEAIML-SECD,f
+146,vanitatank,Monday,10:45 - 11:45,Signals and Systems (SS),DR-406,SY,ECEAIML-SECD,f
+147,pratibhakshirsagar,Monday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECD,f
+148,anilhiwale,Monday,13:30 - 14:30,Digital Electronics (DE),DR-406,SY,ECEAIML-SECD,f
+149,vanitatank,Tuesday,09:30 - 10:30,Signals and Systems (SS),DR-406,SY,ECEAIML-SECD,f
+150,anilhiwale,Tuesday,10:45 - 12:45,Digital Electronics (DE) - G1,VK-302,SY,ECEAIML-SECD,f
+151,sanjaykumarkinge,Tuesday,10:45 - 12:45,Project Based Learning (PBL)-G3,VK-301,SY,ECEAIML-SECD,f
+152,pratibhakshirsagar,Tuesday,13:30 - 14:30,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECD,f
+153,anilhiwale,Wednesday,09:30 - 10:30,PBL-I Practical Practice,KS- 404 ,SY,ECEAIML-SECD,f
+154,vanitatank,Wednesday,10:45 - 11:45,Digital Electronics (DE),DR-406,SY,ECEAIML-SECD,f
+155,pratibhakshirsagar,Wednesday,11:45 - 12:45,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECD,f
+156,anilhiwale,Wednesday,13:30 - 15:30,Digital Electronics (DE)-G2,JN-305,SY,ECEAIML-SECD,f
+157,mrunalannadate,Wednesday,13:30 - 15:30,Project Based Learning (PBL)-G1,VK-301,SY,ECEAIML-SECD,f
+158,pratibhakshirsagar,Thursday,09:30 - 10:30,Calculus and Statistical Methods (CSM),DR-406,SY,ECEAIML-SECD,f
+159,anilhiwale,Thursday,10:45 - 11:45,Digital Electronics (DE),DR-406,SY,ECEAIML-SECD,f
+160,vanitatank,Thursday,11:45 - 12:45,Signals and Systems (SS) - Tu-rial,DR-406,SY,ECEAIML-SECD,f
+161,vanitatank,Friday,09:30 - 10:30,Signals and Systems (SS),DR-406,SY,ECEAIML-SECD,f
+162,anilhiwale,Friday,10:45 - 12:45,Digital Electronics (DE)-G3,JN-305,SY,ECEAIML-SECD,f
+163,anjaliaskhedkar,Friday,10:45 - 12:45,Project Based Learning (PBL)-G2,VK-411D,SY,ECEAIML-SECD,f
+164,rajeevjoshi,Friday,13:30 - 14:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECD,f
+165,rajeevjoshi,Friday,14:30 - 15:30,Spiritual and Cultural Heritage,DR-406,SY,ECEAIML-SECD,f
+166,anaghadeshpande,Monday,10:45 - 11:45,Digital Electronics (DE),DR-406,SY,ECE-SECA,f
+167,anaghadeshpande,Monday,11:45 - 12:45,Signals and Systems (SS),DR-406,SY,ECE-SECA,f
+168,anaghadeshpande,Monday,13:30 - 15:30,Digital Electronics (DE)-G1,VK-302,SY,ECE-SECA,f
+169,priyamvadamahajani,Monday,13:30 - 15:30,Project Based Learning (PBL)-G3,VK-301,SY,ECE-SECA,f
+170,priyamvadamahajani,Tuesday,09:30 - 10:30,Signals and Systems (SS),VK-407,SY,ECE-SECA,f
+171,shrutimishra,Tuesday,10:45 - 11:45,Calculus and Statistical Methods (CSM),VK-407,SY,ECE-SECA,f
+172,anaghadeshpande,Tuesday,11:45 - 12:45,Digital Electronics (DE),VK-407,SY,ECE-SECA,f
+173,amolsajjan,Tuesday,13:30 - 14:30,Embedded Systems Design (ESD),DR-405,SY,ECE-SECA,f
+174,amolsajjan,Tuesday,14:30 - 15:30,Embedded Systems Design (ESD),DR-405,SY,ECE-SECA,f
+175,priyamvadamahajani,Wednesday,09:30 - 10:30,Signals and Systems (SS),VK-407,SY,ECE-SECA,f
+176,anaghadeshpande,Wednesday,10:45 - 12:45,Digital Electronics (DE)-G2,VK-302,SY,ECE-SECA,f
+177,sanjaykumarkinge,Wednesday,10:45 - 12:45,Project Based Learning (PBL)-G1,VK-301,SY,ECE-SECA,f
+178,shrutimishra,Wednesday,13:30 - 14:30,Calculus and Statistical Methods (CSM),VK-407,SY,ECE-SECA,f
+179,anaghadeshpande,Thursday,10:45 - 12:45,Digital Electronics (DE)-G3,VK-302,SY,ECE-SECA,f
+180,sanjaykumarkinge,Thursday,10:45 - 12:45,Project Based Learning (PBL)-G2,VK-301,SY,ECE-SECA,f
+181,anaghadeshpande,Thursday,13:30 - 14:30,Digital Electronics (DE),VK-407,SY,ECE-SECA,f
+182,priyamvadamahajani,Thursday,14:30 - 15:30,Signals and Systems - Tu-rial,VK-407,SY,ECE-SECA,f
+183,shrutimishra,Friday,10:45 - 11:45,Calculus and Statistical Methods (CSM),VK-407,SY,ECE-SECA,f
+184,shrutimishra,Friday,11:45 - 12:45,Calculus and Statistical Methods (CSM)-Tu-rial,VK-407,SY,ECE-SECA,f
+185,rashmiumale,Friday,13:30 - 14:30,Digital Electronics (DE),VK-303,SY,ECE-SECB,f
+186,rashmiumale,Friday,14:30 - 15:30,Spiritual and Cultural Heritage,DR-405,SY,ECE-SECB,f
+187,rajkumarkomati,Monday,10:45 - 11:45,Digital Electronics (DE),DR-405,SY,ECE-SECB,f
+188,rakhikhedkar,Monday,11:45 - 12:45,Signals and Systems (SS),VK-303,SY,ECE-SECB,f
+189,rakhikhedkar,Monday,13:30 - 14:30,Signals and Systems (SS)-Tu-rial,VK-303,SY,ECE-SECB,f
+190,amolsajjan,Monday,14:30 - 15:30,ESD,KS-406,SY,ECE-SECB,f
+191,rakhikhedkar,Tuesday,09:30 - 10:30,Signals and Systems (SS),VK-303,SY,ECE-SECB,f
+192,arpitadeodikar,Tuesday,10:45 - 11:45,Calculus and Statistical Methods (CSM),VK-303,SY,ECE-SECB,f
+193,arpitadeodikar,Tuesday,11:45 - 12:45,Calculus and Statistical Methods (CSM)-Tu-rial,VK-303,SY,ECE-SECB,f
+194,rajkumarkomati,Tuesday,13:30 - 15:30,Digital Electronics (DE)-G1,VK-302,SY,ECE-SECB,f
+195,anjaliaskhedkar,Tuesday,13:30 - 15:30,Project Based Learning (PBL)-G3,VK-301,SY,ECE-SECB,f
+196,shatakshibhamre,Wednesday,08:30 - 09:30,Spiritual and Cultural Heritage (SCH),VK-303,SY,ECE-SECB,f
+197,shatakshibhamre,Wednesday,09:30 - 10:30,Spiritual and Cultural Heritage (SCH),VK-303,SY,ECE-SECB,f
+198,rajkumarkomati,Wednesday,10:45 - 11:45,Digital Electronics (DE),VK-303,SY,ECE-SECB,f
+199,rajkumarkomati,Wednesday,11:45 - 12:45,Digital Electronics (DE),VK-303,SY,ECE-SECB,f
+200,rajkumarkomati,Wednesday,13:30 - 15:30,Digital Electronics (DE)-G2,VK-302,SY,ECE-SECB,f
+201,deepanath,Wednesday,13:30 - 15:30,Project Based Learning (PBL)-G1,VK-301,SY,ECE-SECB,f
+202,arpitadeodikar,Thursday,10:45 - 11:45,Calculus and Statistical Methods (CSM),VK-304,SY,ECE-SECB,f
+203,rakhikhedkar,Thursday,11:45 - 12:45,Signals and Systems (SS),VK-304,SY,ECE-SECB,f
+204,amolsajjan,Friday,10:45 - 11:45,ESD,VK-303,SY,ECE-SECB,f
+205,arpitadeodikar,Friday,11:45 - 12:45,Calculus and Statistical Methods (CSM),VK-304,SY,ECE-SECB,f
+206,rajkumarkomati,Friday,13:30 - 15:30,Project Based Learning (PBL)-G2,VK-301,SY,ECE-SECB,f
+207,sunilsomani,Friday,13:30 - 15:30,Digital Electronics (DE)-G3,JN-305B,SY,ECE-SECB,f
+208,amolsajjan,Monday,09:30 - 10:30,ESD,DR-405,SY,ECE-SECC,f
+209,harshalizodpe,Monday,10:45 - 11:45,Digital Electronics (DE),VK-304,SY,ECE-SECC,f
+210,shrutimishra,Monday,11:45 - 12:45,Calculus and Statistical Methods (CSM),VK-304,SY,ECE-SECC,f
+211,harshalizodpe,Monday,13:30 - 15:30,Digital Electronics (DE)-G1,JN-305,SY,ECE-SECC,f
+212,shrutidanve,Monday,13:30 - 15:30,Project Based Learning (PBL)-G3,VK-301,SY,ECE-SECC,f
+213,harshalizodpe,Tuesday,10:45 - 11:45,Digital Electronics (DE),VK-304,SY,ECE-SECC,f
+214,shrutimishra,Tuesday,11:45 - 12:45,Calculus and Statistical Methods (CSM),VK-304,SY,ECE-SECC,f
+215,harshalizodpe,Tuesday,13:30 - 15:30,Digital Electronics (DE)-G3,JN-305,SY,ECE-SECC,f
+216,deepanath,Tuesday,13:30 - 15:30,Project Based Learning (PBL)-G2,VK-301,SY,ECE-SECC,f
+217,rakhikhedkar,Wednesday,09:30 - 10:30,Signals and Systems (SS),VK-303,SY,ECE-SECC,f
+218,harshalizodpe,Wednesday,10:45 - 11:45,Digital Electronics (DE),VK-304,SY,ECE-SECC,f
+219,amolsajjan,Wednesday,11:45 - 12:45,Employment Skill Development,VK-304,SY,ECE-SECC,f
+220,rakhikhedkar,Thursday,09:30 - 10:30,Signals and Systems (SS),JN-305,SY,ECE-SECC,f
+221,shrutimishra,Thursday,10:45 - 11:45,Calculus and Statistical Methods (CSM),VK-301,SY,ECE-SECC,f
+222,shrutimishra,Thursday,11:45 - 12:45,Calculus and Statistical Methods (CSM),VK-304,SY,ECE-SECC,f
+223,harshalizodpe,Thursday,13:30 - 15:30,Digital Electronics (DE),VK-304,SY,ECE-SECC,f
+224,shrutidanve,Thursday,13:30 - 15:30,Project Based Learning (PBL)-G3,VK-304,SY,ECE-SECC,f
+225,rakhikhedkar,Friday,09:30 - 10:30,Signals and Systems (SS),VK-303,SY,ECE-SECC,f
+226,shatakshibhamre,Friday,10:45 - 11:45,Spiritual and Cultural Heritage (SCH),VK-304,SY,ECE-SECC,f
+227,shatakshibhamre,Friday,11:45 - 12:45,Spiritual and Cultural Heritage (SCH),VK-304,SY,ECE-SECC,f
+228,rakhikhedkar,Friday,13:30 - 14:30,Signals and Systems (SS),KS-406,SY,ECE-SECC,f
+229,manishawani,Monday,08:30 - 09:30,Control Systems (CS),VK-303,SY,EACE-SECA,f
+230,khushiracca,Monday,09:30 - 10:30,Calculus and Numerical Methods (CNM),VK-303,SY,EACE-SECA,f
+231,rajeevjoshi,Monday,10:45 - 11:45,Spiritual and Cultural Heritage (SCH),VK-405,SY,EACE-SECA,f
+232,rajeevjoshi,Monday,11:45 - 12:45,Spiritual and Cultural Heritage (SCH),VK-405,SY,EACE-SECA,f
+233,amolsajjan,Monday,13:30 - 14:30,Employment Skill Development,VK-405,SY,EACE-SECA,f
+234,amolsajjan,Monday,14:30 - 15:30,Employment Skill Development,VK-405,SY,EACE-SECA,f
+235,sanjaykumarkinge,Tuesday,08:30 - 10:30,Project Based Learning (PBL)-G1,VK-302,SY,EACE-SECA,f
+236,manishawani,Tuesday,08:30 - 10:30,Control Systems (CS)-G2,JN-110 ,SY,EACE-SECA,f
+237,manishawani,Tuesday,10:45 - 11:45,Control Systems (CS),VK-405,SY,EACE-SECA,f
+238,khushiracca,Tuesday,11:45 - 12:45,Calculus and Numerical Methods (CNM),VK-405,SY,EACE-SECA,f
+239,sanjaykumarkinge,Wednesday,08:30 - 10:30,Project Based Learning (PBL)-G2,VK-302,SY,EACE-SECA,f
+240,manishawani,Wednesday,08:30 - 10:30,Control Systems (CS)-G1,JN-110,SY,EACE-SECA,f
+241,netralokhande,Wednesday,10:45 - 12:45,Electrical Machines (EM)-G1,JN-008,SY,EACE-SECA,f
+242,netralokhande,Wednesday,13:30 - 14:30,Electrical Machines (EM),VK-304,SY,EACE-SECA,f
+243,khushiracca,Thursday,08:30 - 09:30,CNM (T),VK-303,SY,EACE-SECA,f
+244,netralokhande,Thursday,09:30 - 10:30,Electrical Machines (EM),VK-303,SY,EACE-SECA,f
+245,netralokhande,Thursday,10:45 - 12:45,Electrical Machines (EM)-G2,JN-008,SY,EACE-SECA,f
+246,netralokhande,Friday,09:30 - 10:30,Electrical Machines (EM),VK-405,SY,EACE-SECA,f
+247,khushiracca,Friday,10:45 - 11:45,Calculus and Numerical Methods (CNM),VK-405,SY,EACE-SECA,f
+248,shantaramdond,Monday,08:30 - 09:30,Electrical Machines (EM),VK-304,SY,EACE-SECB,f
+249,shantaramdond,Monday,09:30 - 10:30,Electrical Machines (EM),VK-304,SY,EACE-SECB,f
+250,shantaramdond,Monday,10:45 - 12:45,Electrical Machines (EM)-G1,JN-008,SY,EACE-SECB,f
+251,gauravnarkhede,Monday,10:45 - 12:45,Control Systems (CS)-G2,JN-110,SY,EACE-SECB,f
+252,gauravnarkhede,Tuesday,09:30 - 10:30,Control Systems (CS),VK-405,SY,EACE-SECB,f
+253,shantaramdond,Tuesday,10:45 - 12:45,Electrical Machines (EM)-G2,JN-008,SY,EACE-SECB,f
+254,rajeevjoshi,Tuesday,13:30 - 14:30,Spiritual and Cultural Heritage (SCH),KS-406,SY,EACE-SECB,f
+255,rajeevjoshi,Tuesday,14:30 - 15:30,Spiritual and Cultural Heritage (SCH),KS-406,SY,EACE-SECB,f
+256,manishawani,Wednesday,08:30 - 09:30,Control Systems (CS),VK-405,SY,EACE-SECB,f
+257,khushiracca,Wednesday,09:30 - 10:30,Calculus and Numerical Methods (CNM),VK-405,SY,EACE-SECB,f
+258,amolsajjan,Wednesday,10:45 - 12:45,Employment Skill Development,JN-006,SY,EACE-SECB,f
+259,khushiracca,Wednesday,13:30 - 14:30,Calculus and Numerical Methods (CNM),VK-302,SY,EACE-SECB,f
+260,sanjaykumarkinge,Thursday,08:30 - 10:30,Project Based Learning (PBL)-G1,VK-301,SY,EACE-SECB,f
+261,netralokhande,Friday,08:30 - 09:30,Electrical Machines (EM),VK-405,SY,EACE-SECB,f
+262,khushiracca,Friday,09:30 - 10:30,Calculus and Numerical Methods (CNM),VK-304,SY,EACE-SECB,f
+263,sanjaykumarkinge,Friday,10:45 - 12:45,Project Based Learning (PBL)-G2,VK-302,SY,EACE-SECB,f
+264,gauravnarkhede,Friday,10:45 - 12:45,Control Systems (CS)-G1,JN-008,SY,EACE-SECB,f
+265,rakhikhedkar,Monday,08:30 - 10:30,Project Based Learning - III-G3,KS-405,TY,ECEAIML-SECA,f
+266,anuradhaphadke,Monday,10:45 - 12:45,Artificial Intelligence & Machine Learning-G1,VK-411C,TY,ECEAIML-SECA,f
+267,deepanath,Monday,10:45 - 12:45,Optimization Techniques-G2,JN-306B,TY,ECEAIML-SECA,f
+268,vibhapatel,Monday,10:45 - 12:45,Database Management System-G3,JN-306A,TY,ECEAIML-SECA,f
+269,anujaaskhedkar,Monday,13:30 - 15:30,VLSI Design-G1,VK-411A,TY,ECEAIML-SECA,f
+270,poojagundewar,Monday,13:30 - 15:30,Mechatronics-G1,VK-206A,TY,ECEAIML-SECA,f
+271,madhujagdish,Monday,11:45 - 12:45,Managing Conflicts Peacefully,KS-406,TY,ECEAIML-SECA,f
+272,madhujagdish,Monday,13:30 - 14:30,Managing Conflicts Peacefully,KS-406,TY,ECEAIML-SECA,f
+273,amolsajjan,Tuesday,08:30 - 09:30,Employment Skill Development,JN-106,TY,ECEAIML-SECA,f
+274,sunitakulkarni,Tuesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECA,f
+275,anujaaskhedkar,Tuesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECA,f
+276,poojagundewar,Tuesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECA,f
+277,vinodkumarjadhav,Tuesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECA,f
+278,deepanath,Tuesday,10:45 - 11:45,Optimization Techniques,JN-106,TY,ECEAIML-SECA,f
+279,anuradhaphadke,Tuesday,11:45 - 12:45,Artificial Intelligence & ML,JN-106,TY,ECEAIML-SECA,f
+280,sunitakulkarni,Tuesday,13:30 - 15:30,Digital Signal Processing-G2,VK-207,TY,ECEAIML-SECA,f
+281,anujaaskhedkar,Tuesday,13:30 - 15:30,VLSI Design-G2,VK-411A,TY,ECEAIML-SECA,f
+282,poojagundewar,Tuesday,13:30 - 15:30,Mechatronics-G2,VK-206A,TY,ECEAIML-SECA,f
+283,vinodkumarjadhav,Tuesday,13:30 - 15:30,Digital Communication-G2,VK-306,TY,ECEAIML-SECA,f
+284,sunitakulkarni,Wednesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECA,f
+285,anujaaskhedkar,Wednesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECA,f
+286,poojagundewar,Wednesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECA,f
+287,vinodkumarjadhav,Wednesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECA,f
+288,anuradhaphadke,Wednesday,10:45 - 11:45,Artificial Intelligence & ML,JN-106,TY,ECEAIML-SECA,f
+289,deepanath,Wednesday,11:45 - 12:45,Optimization Techniques,JN-106,TY,ECEAIML-SECA,f
+290,anujaaskhedkar,Wednesday,13:30 - 15:30,VLSI Design-G3,VK-411A,TY,ECEAIML-SECA,f
+291,sunitakulkarni,Thursday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECA,f
+292,anujaaskhedkar,Thursday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECA,f
+293,poojagundewar,Thursday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECA,f
+294,vinodkumarjadhav,Thursday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECA,f
+295,anuradhaphadke,Thursday,10:45 - 12:45,Artificial Intelligence & ML-G3,VK-411C,TY,ECEAIML-SECA,f
+296,deepanath,Thursday,10:45 - 12:45,Optimization Techniques-G1,JN-306B,TY,ECEAIML-SECA,f
+297,vibhapatel,Thursday,10:45 - 12:45,Database Management System-G2,JN-306A,TY,ECEAIML-SECA,f
+298,vibhapatel,Thursday,13:30 - 15:30,Database Management System-G1,JN-306A,TY,ECEAIML-SECA,f
+299,anuradhaphadke,Thursday,13:30 - 15:30,Project Based Learning - III-G2,KS-405,TY,ECEAIML-SECA,f
+300,anuradhaphadke,Friday,08:30 - 10:30,Artificial Intelligence & ML-G2,VK-411C,TY,ECEAIML-SECA,f
+301,deepanath,Friday,08:30 - 10:30,Optimization Techniques-G3,JN-306B,TY,ECEAIML-SECA,f
+302,gauravnarkhede,Friday,08:30 - 10:30,Project Based Learning - III-G1,VK-207,TY,ECEAIML-SECA,f
+303,deepanath,Friday,10:45 - 11:45,Optimization Techniques,JN-106,TY,ECEAIML-SECA,f
+304,anuradhaphadke,Friday,11:45 - 12:45,Artificial Intelligence & ML,JN-106,TY,ECEAIML-SECA,f
+305,sunitakulkarni,Friday,13:30 - 15:30,Digital Signal Processing-G1,VK-207,TY,ECEAIML-SECA,f
+306,vinodkumarjadhav,Friday,13:30 - 15:30,Digital Communication-G1,VK-306,TY,ECEAIML-SECA,f
+307,amolsajjan,Friday,15:30 - 16:30,Employment Skill Development,KS-406,TY,ECEAIML-SECA,f
+308,alkabarhatte,Monday,08:30 - 10:30,Project Based Learning - III - G2,KS-403,TY,ECEAIML-SECB,f
+309,priyamvadamahajani,Monday,10:45 - 11:45,Optimization Techniques,JN-107,TY,ECEAIML-SECB,f
+310,alkabarhatte,Monday,11:45 - 12:45,Artificial Intelligence & ML,JN-107,TY,ECEAIML-SECB,f
+311,anujaaskhedkar,Monday,13:30 - 15:30,VLSI Design-G1,VK-411A,TY,ECEAIML-SECB,f
+312,poojagundewar,Monday,13:30 - 15:30,Mechatronics-G1,VK-206A,TY,ECEAIML-SECB,f
+313,vinodkumarjadhav,Monday,13:30 - 15:30,Digital Communication-G1,VK-306,TY,ECEAIML-SECB,f
+314,amolsajjan,Monday,15:30 - 16:30,Employment Skill Development,JN-107,TY,ECEAIML-SECB,f
+315,sunitakulkarni,Tuesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECB,f
+316,anujaaskhedkar,Tuesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECB,f
+317,poojagundewar,Tuesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECB,f
+318,vinodkumarjadhav,Tuesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECB,f
+319,alkabarhatte,Tuesday,10:45 - 12:45,Artificial Intelligence & ML-G1,JN-106,TY,ECEAIML-SECB,f
+320,priyamvadamahajani,Tuesday,10:45 - 12:45,Optimization Techniques-G2,JN-306A,TY,ECEAIML-SECB,f
+321,anujaaskhedkar,Tuesday,13:30 - 15:30,VLSI Design-G2,VK-411A,TY,ECEAIML-SECB,f
+322,poojagundewar,Tuesday,13:30 - 15:30,Mechatronics-G2,VK-206A,TY,ECEAIML-SECB,f
+323,vinodkumarjadhav,Tuesday,13:30 - 15:30,Digital Communication-G2,VK-306,TY,ECEAIML-SECB,f
+324,sunitakulkarni,Tuesday,13:30 - 15:30,Digital Signal Processing - G2,VK-207A,TY,ECEAIML-SECB,f
+325,sunitakulkarni,Wednesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECB,f
+326,anujaaskhedkar,Wednesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECB,f
+327,poojagundewar,Wednesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECB,f
+328,vinodkumarjadhav,Wednesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECB,f
+329,alkabarhatte,Wednesday,10:45 - 11:45,Artificial Intelligence & ML,JN-107,TY,ECEAIML-SECB,f
+330,priyamvadamahajani,Wednesday,11:45 - 12:45,Optimization Techniques,JN-107,TY,ECEAIML-SECB,f
+331,anujaaskhedkar,Wednesday,13:30 - 15:30,VLSI Design - G3,VK-411A,TY,ECEAIML-SECB,f
+332,poojagundewar,Wednesday,13:30 - 15:30,Mechatronics - G3,VK-206A,TY,ECEAIML-SECB,f
+333,amolsajjan,Wednesday,15:30 - 16:30,Embedded Systems Design (ESD),JN-107,TY,ECEAIML-SECB,f
+334,sunitakulkarni,Thursday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECB,f
+335,anujaaskhedkar,Thursday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECB,f
+336,poojagundewar,Thursday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECB,f
+337,vinodkumarjadhav,Thursday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECB,f
+338,priyamvadamahajani,Thursday,10:45 - 11:45,Optimization Techniques,JN-107,TY,ECEAIML-SECB,f
+339,alkabarhatte,Thursday,11:45 - 12:45,Artificial Intelligence & ML,JN-107,TY,ECEAIML-SECB,f
+340,sneharanade,Thursday,13:30 - 14:30,Managing Conflicts Peacefully,JN-107,TY,ECEAIML-SECB,f
+341,sneharanade,Thursday,14:30 - 15:30,Managing Conflicts Peacefully,JN-107,TY,ECEAIML-SECB,f
+342,prajaktapardeshi,Thursday,15:30 - 17:30,Database Mangement System-G1,JN-306A,TY,ECEAIML-SECB,f
+343,mrunalannadate,Friday,08:30 - 10:30,Project Based Learning - III - G3,VK-411C,TY,ECEAIML-SECB,f
+344,alkabarhatte,Friday,10:45 - 12:45,Artificial Intelligence & ML-G3,VK-411C,TY,ECEAIML-SECB,f
+345,priyamvadamahajani,Friday,10:45 - 12:45,Optimization Techniques-G1,JN-306B,TY,ECEAIML-SECB,f
+346,prajaktapardeshi,Friday,10:45 - 12:45,Database Mangement System-G2,JN-306A,TY,ECEAIML-SECB,f
+347,alkabarhatte,Friday,13:30 - 15:30,Artificial Intelligence & ML-G2,VK-411C,TY,ECEAIML-SECB,f
+348,priyamvadamahajani,Friday,13:30 - 15:30,Optimization Techniques-G3,JN-306B,TY,ECEAIML-SECB,f
+349,arunmali,Friday,13:30 - 15:30,Project Based Learning - III - G1,JN-306A,TY,ECEAIML-SECB,f
+350,prajaktapardeshi,Friday,15:30 - 17:30,Database Mangement System-G3,JN-110B,TY,ECEAIML-SECB,f
+351,sumitramotade,Monday,08:30 - 10:30,Artificial Intelligence & ML-G1,VK-411C,TY,ECEAIML-SECC,f
+352,priyamvadamahajani,Monday,08:30 - 10:30,Optimization Techniques-G2,JN-306B,TY,ECEAIML-SECC,f
+353,alkabarhatte,Monday,08:30 - 10:30,Database Mangement System-G3,JN-110B,TY,ECEAIML-SECC,f
+354,sumitramotade,Monday,10:45 - 11:45,Artificial Intelligence & ML,JN-106,TY,ECEAIML-SECC,f
+355,vanitatank,Monday,11:45 - 12:45,Optimization Technique,JN-106,TY,ECEAIML-SECC,f
+356,anujaaskhedkar,Monday,13:30 - 15:30,VLSI Design-G1,VK-411A,TY,ECEAIML-SECC,f
+357,poojagundewar,Monday,13:30 - 15:30,Mechatronics-G1,VK-206A,TY,ECEAIML-SECC,f
+358,vinodkumarjadhav,Monday,13:30 - 15:30,Digital Communication-G1,VK-306,TY,ECEAIML-SECC,f
+359,amolsajjan,Monday,15:30 - 16:30,Employment Skill Development,JN-107,TY,ECEAIML-SECC,f
+360,sunitakulkarni,Tuesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECC,f
+361,anujaaskhedkar,Tuesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECC,f
+362,poojagundewar,Tuesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECC,f
+363,vinodkumarjadhav,Tuesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECC,f
+364,sumitramotade,Tuesday,10:45 - 11:45,Artificial Intelligence & ML,JN-107,TY,ECEAIML-SECC,f
+365,priyamvadamahajani,Tuesday,11:45 - 12:45,Optimization Techniques,JN-107,TY,ECEAIML-SECC,f
+366,anujaaskhedkar,Tuesday,13:30 - 15:30,VLSI Design-G2,VK-411A,TY,ECEAIML-SECC,f
+367,poojagundewar,Tuesday,13:30 - 15:30,Mechatronics-G2,VK-206A,TY,ECEAIML-SECC,f
+368,vinodkumarjadhav,Tuesday,13:30 - 15:30,Digital Communication-G2,VK-306,TY,ECEAIML-SECC,f
+369,sunitakulkarni,Tuesday,13:30 - 15:30,Digital Signal Processing - G2,VK-207A,TY,ECEAIML-SECC,f
+370,dhanshreeghate,Wednesday,08:30 - 09:30,Managing Conflicts Peacefully,JN-107,TY,ECEAIML-SECC,f
+371,sunitakulkarni,Wednesday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECC,f
+372,anujaaskhedkar,Wednesday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECC,f
+373,poojagundewar,Wednesday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECC,f
+374,vinodkumarjadhav,Wednesday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECC,f
+375,alkabarhatte,Wednesday,10:45 - 12:45,Artificial Intelligence & ML-G3,VK-411C,TY,ECEAIML-SECC,f
+376,priyamvadamahajani,Wednesday,10:45 - 12:45,Optimization Techniques-G1,JN-306B,TY,ECEAIML-SECC,f
+377,vaidehideshmukh,Wednesday,10:45 - 12:45,Database Mangement System-G2,JN-306A,TY,ECEAIML-SECC,f
+378,anujaaskhedkar,Wednesday,13:30 - 15:30,VLSI Design - G3,VK-411A,TY,ECEAIML-SECC,f
+379,dhanshreeghate,Thursday,08:30 - 09:30,Managing Conflicts Peacefully,JN-107,TY,ECEAIML-SECC,f
+380,sunitakulkarni,Thursday,09:30 - 10:30,Digital Signal Processing,KS-406,TY,ECEAIML-SECC,f
+381,anujaaskhedkar,Thursday,09:30 - 10:30,VLSI Design,JN-106,TY,ECEAIML-SECC,f
+382,poojagundewar,Thursday,09:30 - 10:30,Mechatronics,JN-107,TY,ECEAIML-SECC,f
+383,vinodkumarjadhav,Thursday,09:30 - 10:30,Digital Communication,KS-407,TY,ECEAIML-SECC,f
+384,vanitatank,Thursday,10:45 - 11:45,Optimization Techniques,JN-106,TY,ECEAIML-SECC,f
+385,sumitramotade,Thursday,11:45 - 12:45,Artificial Intelligence & ML,JN-106,TY,ECEAIML-SECC,f
+386,sumitramotade,Thursday,13:30 - 15:30,Artificial Intelligence & ML-G2,VK-411C,TY,ECEAIML-SECC,f
+387,gauravnarkhede,Thursday,13:30 - 15:30,Project Based Learning - III - G1,KS-403,TY,ECEAIML-SECC,f
+388,vanitatank,Thursday,13:30 - 15:30,Optimization Techniques - G3,JN-306B,TY,ECEAIML-SECC,f
+389,amolsajjan,Thursday,15:30 - 16:30,Employment Skill Development,JN-107,TY,ECEAIML-SECC,f
+390,alkabarhatte,Friday,08:30 - 10:30,Project Based Learning - III - G3,VK-411C,TY,ECEAIML-SECC,f
+391,rakhikhedkar,Friday,10:45 - 12:45,Project Based Learning - III - G2,VK-411A,TY,ECEAIML-SECC,f
+392,vaidehideshmukh,Friday,10:45 - 12:45,Database Mangement System-G1,JN-306A,TY,ECEAIML-SECC,f
+393,sunitakulkarni,Friday,13:30 - 15:30,Digital Signal Processing,VK-207A,TY,ECEAIML-SECC,f
+394,bhaktiparanjape,Monday,08:30 - 09:30,PE-III: Natural Language Processing,DR-405,LY,ECEAIML-SECA,f
+395,vaidehideshmukh,Monday,09:30 - 10:30,AI Comuting Platforms,DR-405,LY,ECEAIML-SECA,f
+396,apurvanaik,Monday,09:30 - 10:30,IoT architecture and Protocol,VK-411A,LY,ECEAIML-SECA,f
+397,vaidehideshmukh,Monday,10:45 - 12:45 ,AI Comuting Platforms-G3,VK-411B,LY,ECEAIML-SECA,f
+398,vaidehideshmukh,Tuesday,08:30 - 09:30,AI Comuting Platforms,DR-405,LY,ECEAIML-SECA,f
+399,apurvanaik,Tuesday,08:30 - 09:30,IoT architecture and Protocol,DR-405,LY,ECEAIML-SECA,f
+400,vaidehideshmukh,Tuesday,10:45 - 12:45 ,AI Comuting Platforms-G2,VK-411B,LY,ECEAIML-SECA,f
+401,raghunathbhadade,Tuesday,13:30 - 15:30,Capstone Project,VK-411D,LY,ECEAIML-SECA,f
+402,bhaktiparanjape,Wednesday,08:30 - 09:30,PE-III: Natural Language Processing,DR-405,LY,ECEAIML-SECA,f
+403,apurvanaik,Wednesday,09:30 - 10:30,IoT architecture and Protocol,DR-405,LY,ECEAIML-SECA,f
+404,bhaktiparanjape,Wednesday,10:45 - 12:45 ,PE-III: Natural Language Processing-G1,KS-405,LY,ECEAIML-SECA,f
+405,apurvanaik,Wednesday,13:30 - 15:30,IoT architecture and Protocol -G1,DR-406,LY,ECEAIML-SECA,f
+406,raghunathbhadade,Wednesday,13:30 - 15:30,Capstone Project - G2,VK-411C,LY,ECEAIML-SECA,f
+407,vaidehideshmukh,Thursday,09:30 - 10:30,AI Comuting Platforms,DR-406,LY,ECEAIML-SECA,f
+408,bhaktiparanjape,Thursday,10:45 - 12:45 ,PE-III: Natural Language Processing-G2,KS-405,LY,ECEAIML-SECA,f
+409,bhaktiparanjape,Thursday,13:30 - 14:30 ,PE-III: Natural Language Processing-G1,KS-405,LY,ECEAIML-SECA,f
+410,bhaktiparanjape,Friday,08:30 - 09:30,PE-III: Natural Language Processing,DR-405,LY,ECEAIML-SECA,f
+411,bhaktiparanjape,Monday,08:30 - 09:30,PE-III: Natural Language Processing,DR-405,LY,ECE-SECA,f
+412,manishakowdiki,Monday,09:30 - 10:30,AIML,JN-305A ,LY,ECE-SECA,f
+413,sarikapatil,Monday,10:45 - 12:45 ,DeepNeuralNetwork-G1,VK-411B,LY,ECE-SECA,f
+414,sarikapatil,Monday,13:30 - 14:30 ,DeepNeuralNetwork,DR-405,LY,ECE-SECA,f
+415,manishakowdiki,Tuesday,09:30 - 10:30 ,AIML-G1,DR-405,LY,ECE-SECA,f
+416,sarikapatil,Monday,13:30 - 14:30 ,DeepNeuralNetwork,DR-405,LY,ECE-SECA,f
+417,bhaktiparanjape,Wednesday,08:30 - 09:30,PE-III: Natural Language Processing,DR-405,LY,ECE-SECA,f
+418,manishakowdiki,Wednesday,09:30 - 10:30 ,AIML,DR-405,LY,ECE-SECA,f
+419,bhaktiparanjape,Wednesday,10:45 - 12:45 ,PE-III: Natural Language Processing-G1,KS-405,LY,ECE-SECA,f
+420,manishakowdiki,Wednesday,13:30 - 15:30,AIML-G3,VK-411C,LY,ECE-SECA,f
+421,bhaktiparanjape,Friday,08:30 - 09:30 ,PE-III: Natural Language Processing,DR-405,LY,ECE-SECA,f
+422,manishakowdiki,Friday,09:30 - 10:30 ,AIML,DR-405,LY,ECE-SECA,f
+423,manishakowdiki,Thurday,08:30 - 10:30 ,AIML-G2,VK-411D,LY,ECE-SECA,f
+424,bhaktiparanjape,Thurday,10:45 - 12:45 ,PE-III: Natural Language Processing-G1,KS-405,LY,ECE-SECA,f
+425,sarikapatil,Friday,10:45 - 12:45 ,DeepNeuralNetwork-G2,VK-411B,LY,ECE-SECA,f
+426,amitnehete,Monday,11:45 - 11:45 ,SmartGridSystem,DR-405,LY,EACE-SECA,f
+427,trushitachaware,Monday,13:30 - 14:30,CyberSecurity,DR-405,LY,EACE-SECA,f
+428,amitnehete,Tuesday,08:30 - 10:30 ,SmartGridSystem-G1,VK-306,LY,EACE-SECA,f
+429,amitnehete,Tuesday,08:30 - 10:30 ,SmartGridSystem-G1,VK-306,LY,EACE-SECA,f
+430,trushitachaware,Tuesday,10:45 - 11:45 ,CyberSecurity,DR-405,LY,EACE-SECA,f
+431,amitnehete,Tuesday,13:30 - 15:30,SmartGridSystem-G3,JN-110A,LY,EACE-SECA,f
+432,amitnehete,Wednesday,13:30 - 14:30,SmartGridSystem,DR-405,LY,EACE-SECA,f
+433,amitnehete,Wednesday,10:45 - 12:45 ,SmartGridSystem-G2,DR-405,LY,EACE-SECA,f
+434,dhanshreeghate,Monday,08:30 - 09:30,Managing Conflicts Peacefully (MCP),KS-406,TY,ECE-SECA,f
+435,vibhapatel,Monday,09:30 - 10:30,Electromagnetics and Radiating Systems (ERS),KS-406,TY,ECE-SECA,f
+436,manishakumawat,Monday,09:30 - 10:30,Artificial Neural Network (ANN),KS-407,TY,ECE-SECA,f
+437,savitrijadhav,Monday,09:30 - 10:30,Embedded System & RTOS (ES&RTOS),JN-106,TY,ECE-SECA,f
+438,anjaliaskhedkar,Monday,10:45 - 11:45,Digital Communication (DC),KS-406,TY,ECE-SECA,f
+439,rupalikute,Monday,11:45 - 12:45,Digital Signal Processing (DSP),KS-406,TY,ECE-SECA,f
+440,rupalikute,Monday,13:30 - 15:30,Digital Signal Processing (DSP Practical)-G1,VK-207,TY,ECE-SECA,f
+441,anjaliaskhedkar,Monday,13:30 - 15:30,Digital Communication (DC Practical)-G2,VK-306,TY,ECE-SECA,f
+442,ujjawalarawandale,Monday,13:30 - 15:30,Simulation Lab (SL Practical)-G3,JN-110A,TY,ECE-SECA,f
+443,rupalikute,Tuesday,10:45 - 11:45,Digital Signal Processing (DSP),KS-406,TY,ECE-SECA,f
+444,anjaliaskhedkar,Tuesday,11:45 - 12:45,Digital Communication (DC),KS-406,TY,ECE-SECA,f
+445,savitrijadhav,Tuesday,11:45 - 12:45,Embedded System & RTOS (ES&RTOS),VK-411B,TY,ECE-SECA,f
+446,manishakumawat,Tuesday,11:45 - 12:45,Artificial Neural Network (ANN),VK-411C,TY,ECE-SECA,f
+447,vibhapatel,Tuesday,13:30 - 15:30,Electromagnetics and Radiating Systems (ERS)-G1,KS-406,TY,ECE-SECA,f
+448,manishakumawat,Tuesday,13:30 - 15:30,Artificial Neural Network (ANN)-G1,KS-407,TY,ECE-SECA,f
+449,savitrijadhav,Tuesday,13:30 - 15:30,Embedded System & RTOS (ES&RTOS)-G1,JN-107,TY,ECE-SECA,f
+450,savitrijadhav,Wednesday,08:30 - 10:30,Embedded System & RTOS (ES&RTOS)-G3,KS-406,TY,ECE-SECA,f
+451,anjaliaskhedkar,Wednesday,10:45 - 11:45,Digital Communication (DC),KS-406,TY,ECE-SECA,f
+452,rupalikute,Wednesday,13:30 - 15:30,Digital Signal Processing (DSP)-G3,VK-207,TY,ECE-SECA,f
+453,anjaliaskhedkar,Wednesday,13:30 - 15:30,Digital Communication (DC)-G1,VK-306,TY,ECE-SECA,f
+454,sunitakulkarni,Wednesday,13:30 - 15:30,Simulation Lab (SL Practical)-G2,JN-110A,TY,ECE-SECA,f
+455,amolsajjan,Wednesday,15:30 - 16:30,Employment Skill Development (ESD),KS-406,TY,ECE-SECA,f
+456,rupalikute,Thursday,10:45 - 12:45,Digital Signal Processing (DSP)-G2,VK-207,TY,ECE-SECA,f
+457,anjaliaskhedkar,Thursday,10:45 - 12:45,Digital Communication (DC)-G3,VK-207,TY,ECE-SECA,f
+458,arunmali,Thursday,10:45 - 12:45,Project Based Learning (PBL)-G1,VK-306,TY,ECE-SECA,f
+459,savitrijadhav,Thursday,13:30 - 15:30,Embedded System & RTOS (ES&RTOS)-G2,VK-411B,TY,ECE-SECA,f
+460,manishakumawat,Thursday,13:30 - 15:30,Artificial Neural Network (ANN)-G2,JN-110A,TY,ECE-SECA,f
+461,dhanshreeghate,Friday,08:30 - 09:30,Managing Conflicts Peacefully (MCP),KS-406,TY,ECE-SECA,f
+462,vibhapatel,Friday,09:30 - 10:30,ERS,KS-406,TY,ECE-SECA,f
+463,manishakumawat,Friday,09:30 - 10:30,ANN,KS-407,TY,ECE-SECA,f
+464,savitrijadhav,Friday,09:30 - 10:30,ES&RTOS,JN-106,TY,ECE-SECA,f
+465,vinodkumarjadhav,Friday,10:45 - 11:45,Simulation Lab (SL Practical)-G1,JN-110A,TY,ECE-SECA,f
+466,rupalikute,Friday,10:45 - 12:45,Project Based Learning (PBL)-G2,KS-403,TY,ECE-SECA,f
+467,rupalikute,Friday,11:45 - 12:45,Project Based Learning (PBL)-G3,VK-411A,TY,ECE-SECA,f
+468,vibhapatel,Monday,09:30 - 10:30,Electromagnetics and Radiating Systems (ERS),KS-406,TY,ECE-SECB,f
+469,manishakumawat,Monday,09:30 - 10:30,Artificial Neural Network (ANN),KS-407,TY,ECE-SECB,f
+470,savitrijadhav,Monday,09:30 - 10:30,Embedded System & RTOS,JN-106,TY,ECE-SECB,f
+471,paruljadhav,Monday,10:45 - 12:45,Digital Signal Processing (DSP)-G1,VK-207,TY,ECE-SECB,f
+472,sunilsomani,Monday,10:45 - 12:45,Digital Communication (DC)-G2,VK-306,TY,ECE-SECB,f
+473,vinodkumarjadhav,Monday,10:45 - 12:45,Simulation Lab (SL)-G3,JN-110A,TY,ECE-SECB,f
+474,paruljadhav,Monday,13:30 - 14:30,Digital Signal Processing (DSP),KS-406,TY,ECE-SECB,f
+475,sunilsomani,Monday,14:30 - 15:30,Digital Communication (DC),KS-406,TY,ECE-SECB,f
+476,amolsajjan,Monday,15:30 - 16:30,Employment Skill Development (ESD),KS-407,TY,ECE-SECB,f
+477,rupalikute,Tuesday,08:30 - 10:30,Project Based Learning (PBL)-G2,KS-403,TY,ECE-SECB,f
+478,ujjawalarawandale,Tuesday,10:45 - 12:45,Simulation Lab (SL)-G1,JN-110A,TY,ECE-SECB,f
+479,rakhikhedkar,Tuesday,10:45 - 12:45,Project Based Learning (PBL)-G3,KS-403,TY,ECE-SECB,f
+480,manishakumawat,Tuesday,10:45 - 11:45,Artificial Neural Network (ANN)-g1,VK-411C,TY,ECE-SECB,f
+481,vibhapatel,Tuesday,10:45 - 11:45,Electromagnetics and Radiating Systems (ERS)-g1,VK-305,TY,ECE-SECB,f
+482,savitrijadhav,Wednesday,08:30 - 10:30,Embedded System & RTOS-G3,VK-411B,TY,ECE-SECB,f
+483,sunitakulkarni,Wednesday,10:45 - 12:45,Digital Signal Processing (DSP)-G2,VK-207,TY,ECE-SECB,f
+484,sunilsomani,Wednesday,10:45 - 12:45,Digital Communication-G3,VK-306,TY,ECE-SECB,f
+485,rakhikhedkar,Wednesday,10:45 - 12:45,Project Based Learning (PBL)-G1,KS-403,TY,ECE-SECB,f
+486,sunilsomani,Wednesday,13:30 - 14:30,Digital Communication(DC),KS-406,TY,ECE-SECB,f
+487,paruljadhav,Wednesday,14:30 - 15:30,Digital Signal Processing (DSP),KS-406,TY,ECE-SECB,f
+488,amolsajjan,Wednesday,15:30 - 16:30,Employment Skill Development (ESD),KS-407,TY,ECE-SECB,f
+489,rupalikute,Thursday,08:30 - 10:30,Digital Signal Processing (DSP)-G3,VK-305,TY,ECE-SECB,f
+490,sunilsomani,Thursday,08:30 - 10:30,Digital Communication-G1,VK-306,TY,ECE-SECB,f
+491,ujjawalarawandale,Thursday,08:30 - 10:30,Simulation Lab (SL)-G2,JN-110A,TY,ECE-SECB,f
+492,paruljadhav,Thursday,10:45 - 11:45,Digital Signal Processing (DSP),KS-407,TY,ECE-SECB,f
+493,sunilsomani,Thursday,11:45 - 12:45,Digital Communication(DC),KS-407,TY,ECE-SECB,f
+494,savitrijadhav,Thursday,01:30 - 03:30,Embedded System & RTOS (ES&RTOS)-G2,VK-411B,TY,ECE-SECB,f
+495,manishakumawat,Thursday,01:30 - 03:30,Artificial Neural Network (ANN)-G2,VK-411C,TY,ECE-SECB,f
+496,vibhapatel,Friday,09:30 - 10:30,Electromagnetics and Radiating Systems (ERS),KS-406,TY,ECE-SECB,f
+497,manishakumawat,Friday,09:30 - 10:30,Artificial Neural Network (ANN),KS-407,TY,ECE-SECB,f
+498,savitrijadhav,Friday,09:30 - 10:30,Embedded System & RTOS (ES&RTOS),JN-106,TY,ECE-SECB,f
+499,rasikabeohar,Friday,10:45 - 11:45,Managing Conflicts Peacefully (MCP),KS-406,TY,ECE-SECB,f
+500,rasikabeohar,Friday,11:45 - 12:45,Managing Conflicts Peacefully (MCP),KS-406,TY,ECE-SECB,f
+501,savitrijadhav,Friday,13:30 - 14:30,Embedded System & RTOS (ES&RTOS)-G3,VK-411B,TY,ECE-SECB,f
+502,paruljadhav,Wednesday,15:30 - 16:30,BiologyPro,JN-809,TY,BIOAIML-SECA,f
+503,paruljadhav,Friday,14:30 - 15:30,BiologyPro,JN-307,TY,BIOAIML-SECA,f
